@@ -1,0 +1,8 @@
+# Ignora le cartelle di sistema di Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# (Opzionale) Se in futuro il tuo file CSV supererà i 100MB, togli il # dalla riga qui sotto
+# data/italian seriaA data.csv

@@ -4,5 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 
+**/*.pkl
+
 # (Opzionale) Se in futuro il tuo file CSV supererà i 100MB, togli il # dalla riga qui sotto
 # data/italian seriaA data.csv
